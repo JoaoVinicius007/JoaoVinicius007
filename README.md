@@ -2,4 +2,6 @@
 
 -Estudando pelo Alura
 
-Yes,and?
+*Yes,and?*
+
+![](https://media1.tenor.com/m/dlJSiLUJNmsAAAAC/math-calculate.gif)
